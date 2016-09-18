@@ -1,13 +1,11 @@
 name:                threads-extras
-version:             0.1.0.0
-synopsis:            Initial project template from stack
-description:         Please see README.md
-homepage:            https://github.com/githubuser/threads-extras#readme
+version:             0.1.0.1
+synopsis:            Extends the threads package with a bounded thread group
 license:             BSD3
 license-file:        LICENSE
-author:              Author name here
-maintainer:          example@example.com
-copyright:           2016 Author name here
+author:              Jonathan Fischoff
+maintainer:          jonathangfischoff@gmail.com
+copyright:           skedge.me
 category:            Web
 build-type:          Simple
 -- extra-source-files:
