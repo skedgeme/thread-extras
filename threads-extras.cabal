@@ -1,11 +1,12 @@
 name:                threads-extras
-version:             0.1.0.1
+version:             0.1.0.2
 synopsis:            Extends the threads package with a bounded thread group
+description:         Extends the threads package with a bounded thread group
 license:             BSD3
 license-file:        LICENSE
 author:              Jonathan Fischoff
 maintainer:          jonathangfischoff@gmail.com
-copyright:           skedge.me
+copyright:           2016 skedge.me
 category:            Web
 build-type:          Simple
 -- extra-source-files:
