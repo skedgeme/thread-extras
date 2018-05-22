@@ -32,4 +32,4 @@ test-suite threads-extras-test
 
 source-repository head
   type:     git
-  location: https://github.com/skedgeme/threads-extras
+  location: https://github.com/skedgeme/thread-extras
